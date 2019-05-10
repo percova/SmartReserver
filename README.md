@@ -10,4 +10,7 @@ SmartReserver is a mobile application created to simplify a process of making a 
 - Sent MMS messages
 - Gallery
 - Camera
-
+ 
+## Target audience
+- Places that whant to make their reservation system much more convinient and advantageous for customers and staff.
+- People who whant to make reservations in any place or time thay whantand spend minimum time on it
