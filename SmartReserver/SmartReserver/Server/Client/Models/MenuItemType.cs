@@ -4,7 +4,11 @@ using System.Text;
 
 namespace SmartReserver.Server.Client.Models
 {
-    class MenuItemType
+    public enum MenuItemType
     {
+        Account,
+        Feed,
+        MyReservations,
+        Logout
     }
 }
