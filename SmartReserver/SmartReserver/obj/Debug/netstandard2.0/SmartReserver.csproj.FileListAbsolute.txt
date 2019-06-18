@@ -1,0 +1,12 @@
+D:\Victoria\Study\SmartReserver\SmartReserver\SmartReserver\bin\Debug\netstandard2.0\SmartReserver.deps.json
+D:\Victoria\Study\SmartReserver\SmartReserver\SmartReserver\bin\Debug\netstandard2.0\SmartReserver.dll
+D:\Victoria\Study\SmartReserver\SmartReserver\SmartReserver\bin\Debug\netstandard2.0\SmartReserver.pdb
+D:\Victoria\Study\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\SmartReserver.csprojAssemblyReference.cache
+D:\Victoria\Study\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Victoria\Study\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Victoria\Study\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\SmartReserver.csproj.CoreCompileInputs.cache
+D:\Victoria\Study\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\SmartReserver.AssemblyInfoInputs.cache
+D:\Victoria\Study\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\SmartReserver.AssemblyInfo.cs
+D:\Victoria\Study\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Victoria\Study\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\SmartReserver.dll
+D:\Victoria\Study\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\SmartReserver.pdb
